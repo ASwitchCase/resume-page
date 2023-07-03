@@ -1,0 +1,94 @@
+div{
+  border: 0px solid black;
+}
+
+hr{
+  height: 2px;
+  border-radius: 5px;
+  background-color: rgb(158, 197, 180);
+}
+
+h1{
+  margin-left: 10px;
+  color: rgb(37, 57, 48);
+  font-size: 30px;
+  font-weight: 600px;
+  
+}
+
+h2{
+  margin-left: 20px;
+  font-weight: 300px;
+  line-height: 15px;
+  color: rgb(74, 89, 74);
+  font-size: 20px;
+  
+}
+
+h3{
+  margin-left: 40px;
+  font-weight: lighter;
+  line-height: 15px;
+  color: rgb(95, 109, 102);
+  font-size: 15px;
+}
+
+img{
+  width: 25px;
+  height: 25px;
+}
+
+p{
+  margin-left: 25px;
+  font-size: 19px;
+  line-height: 30px;
+  color: rgb(46, 49, 48)
+}
+
+.page-container{
+  width:1050px;
+  height: fit-content;
+  background-color: rgb(242, 251, 247);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.header-container{
+  width: 100%;
+  height: fit-content;
+}
+
+.content-container{
+  width: 100%;
+  height: fit-content;
+  margin-top: 30px;
+}
+
+.left-container{
+  width: 39%;
+  height: 1170px;
+  display: inline-block;
+  vertical-align: top;
+  border-right: 2px solid rgb(158, 197, 180);;
+  
+}
+
+.right-container{
+  width: 60%;
+  height: fit-content;
+  display: inline-block;
+  vertical-align: top;
+  background-color: rgb(223, 250, 238);
+}
+
+.title-header-large{
+  font-size: 70px;
+  text-align: center;
+}
+
+.title-header-med{
+  font-size: 30px;
+  text-align: center;
+}
