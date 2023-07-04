@@ -41,7 +41,7 @@ const Experience = () => {
 
         <ul>
           <li>
-          <p>Provided support to the AV team and helped broadcast meetings through video conferencing software like Zoom. Assist and train new volunteers</p>
+          <p>Provided support to the AV team and helped broadcast meetings through video conferencing software like Zoom. Assisted and trained new volunteers.</p>
           </li>
         </ul>
         
