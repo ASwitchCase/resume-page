@@ -4,29 +4,18 @@ const Skills = () => {
   return (
     <div>
       <div className='content-container'>
-        <h1>Technical Skills</h1>
-        <ul>
-            <li>
-                <h2>Microsoft Excel</h2>
-            </li>
-
-            <li>
-                <h2>OBS (Open Broadcaster Software)</h2>
-            </li>
-
-            <li>
-                <h2>Oracle VM VirtualBox</h2>
-            </li>
-
-            <li>
-                <h2>WordPress</h2>
-            </li>
-        </ul>
-
         <h1>Programming Skills</h1>
         <ul>
             <li>
-                <h2>Java</h2>
+                <h2>Angular</h2>
+            </li>
+
+            <li>
+                <h2>React.js</h2>
+            </li>
+
+            <li>
+                <h2>ASP.Net Core</h2>
             </li>
 
             <li>
@@ -42,7 +31,7 @@ const Skills = () => {
             </li>
 
             <li>
-                <h2>React.js</h2>
+                <h2>C#</h2>
             </li>
 
             <li>

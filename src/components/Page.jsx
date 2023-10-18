@@ -11,7 +11,7 @@ const Page = () => {
         <div className='header-container'>
             <header className='title-header-large'>Jacques Henry Adams</header>
             <hr></hr>
-            <header className='title-header-med'>Computer Programmer / Technical Consultant</header>
+            <header className='title-header-med'>Software Engineer</header>
             <hr></hr>
         </div>
 
